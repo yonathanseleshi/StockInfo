@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="MarginTop">5dp</dimen>
+    <dimen name="lblMargLeft">10dp</dimen>
+    <dimen name="margLft">20dp</dimen>
+    <dimen name="lblWidth">40dp</dimen>
+</resources>
